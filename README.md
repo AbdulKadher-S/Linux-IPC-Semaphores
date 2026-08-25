@@ -131,6 +131,8 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
+
+
 <img width="632" height="537" alt="image" src="https://github.com/user-attachments/assets/c1b2332c-626f-4c90-90be-9e0a780f95bf" />
 
 
